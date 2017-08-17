@@ -3,7 +3,7 @@
 
 ----
 
-KTAttributedString is A more convenient way to deal with `NSAttributedString`.
+KTAttributedString is a more convenient way to deal with `NSAttributedString`.
 
 Just like [Masonry](https://github.com/SnapKit/Masonry), it uses a simplified, chainable and expressive syntax.
 
