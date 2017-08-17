@@ -16,6 +16,9 @@ Just like [Masonry](https://github.com/SnapKit/Masonry), it uses a simplified, c
               .underline(NSUnderlineStyleSingle)
 ```
 
+# Demo
+![demo](./Images/demo.png)
+
 # Installation
 **Manually**
 
