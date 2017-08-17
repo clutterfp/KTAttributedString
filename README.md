@@ -16,7 +16,7 @@ Just like [Masonry](https://github.com/SnapKit/Masonry), it uses a simplified, c
               .underline(NSUnderlineStyleSingle)
 ```
 
-#Installation
+# Installation
 **Manually**
 
 1. Download the full file.
@@ -26,15 +26,15 @@ Just like [Masonry](https://github.com/SnapKit/Masonry), it uses a simplified, c
 
 KTAttributedString is available under the MIT license. See the LICENSE file for more info.
 
-#TODO
+# TODO
 * More tests and features
 * CocoaPods support
 * Documentation
 
-#Reference
+# Reference
 
-[Masonry](https://github.com/SnapKit/Masonry)
-[Typeset](https://github.com/Draveness/Typeset)
+* [Masonry](https://github.com/SnapKit/Masonry)
+* [Typeset](https://github.com/Draveness/Typeset)
 
 
 
